@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>JadnG's Blog</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2014-09-04T22:41:14+08:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Jdong</name>
+   <email>joey5566@yeah.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Install jekyll in ubuntu14.04</title>
+   <link href="http://username.github.io/jekyll/2014/09/04/install-jekyll"/>
+   <updated>2014-09-04T00:00:00+08:00</updated>
+   <id>http://username.github.io/jekyll/2014/09/04/install-jekyll</id>
+   <content type="html">&lt;h2&gt;Install jekyll in ubuntu14.04&lt;/h2&gt;
+&lt;p&gt;These days I want to build a blog in github with jekyll, I find
+   this is very funny.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+1. sudo apt-get install rubygems; &lt;/li&gt;&lt;li&gt;
+2. sudo apt-get install ruby1.9.3; &lt;/li&gt;&lt;li&gt;
+3. sudo gem install jekyll; &lt;/li&gt;&lt;li&gt;
+4. sudo apt-get install nodejs. 
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;04 Sep 2014&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>hello, world</title>
+   <link href="http://username.github.io/hello-world/2014/08/31/hello-world"/>
+   <updated>2014-08-31T00:00:00+08:00</updated>
+   <id>http://username.github.io/hello-world/2014/08/31/hello-world</id>
+   <content type="html">&lt;h2&gt;hello, world&lt;/h2&gt;
+&lt;p&gt;This is my first blog doc&lt;/p&gt;
+&lt;p&gt;31 Aug 2014&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

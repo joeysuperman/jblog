@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>JadnG's Blog</title>
+        <description>JadnG's Blog - Jdong</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2014-09-04T22:41:14+08:00</lastBuildDate>
+        <pubDate>2014-09-04T22:41:14+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Install jekyll in ubuntu14.04</title>
+                <description>&lt;h2&gt;Install jekyll in ubuntu14.04&lt;/h2&gt;
+&lt;p&gt;These days I want to build a blog in github with jekyll, I find
+   this is very funny.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+1. sudo apt-get install rubygems; &lt;/li&gt;&lt;li&gt;
+2. sudo apt-get install ruby1.9.3; &lt;/li&gt;&lt;li&gt;
+3. sudo gem install jekyll; &lt;/li&gt;&lt;li&gt;
+4. sudo apt-get install nodejs. 
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;04 Sep 2014&lt;/p&gt;
+</description>
+                <link>http://username.github.io/jekyll/2014/09/04/install-jekyll</link>
+                <guid>http://username.github.io/jekyll/2014/09/04/install-jekyll</guid>
+                <pubDate>2014-09-04T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>hello, world</title>
+                <description>&lt;h2&gt;hello, world&lt;/h2&gt;
+&lt;p&gt;This is my first blog doc&lt;/p&gt;
+&lt;p&gt;31 Aug 2014&lt;/p&gt;
+
+</description>
+                <link>http://username.github.io/hello-world/2014/08/31/hello-world</link>
+                <guid>http://username.github.io/hello-world/2014/08/31/hello-world</guid>
+                <pubDate>2014-08-31T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
